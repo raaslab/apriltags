@@ -2,7 +2,7 @@ const double SMALL_TAG_SIZE = 0.0358968;
 const double MED_TAG_SIZE = 0.06096;
 const double PAGE_TAG_SIZE = 0.165;
 
-const std::string DEFAULT_TAG_FAMILY = "Tag36h11";
+const std::string DEFAULT_TAG_FAMILY = "Tag16h5";
 const std::string DEFAULT_IMAGE_TOPIC = "image";
 const std::string DEFAULT_CAMERA_INFO_TOPIC = "camera_info";
 const std::string DEFAULT_MARKER_TOPIC = "marker_array";
